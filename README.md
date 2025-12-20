@@ -150,13 +150,11 @@ For issues or questions:
 - Contact the system administrator
 - Contact IT support
 
-## License
 
-[Specify license if applicable]
 
 ## Contributors
 
-[Add contributor information]
+Matin Shahmali
 
 ---
 
